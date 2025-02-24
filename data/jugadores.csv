@@ -1,0 +1,151 @@
+Nombre,Apellidos,Número,Altura,Peso,Posición,Fecha Nacimiento,Táctico,Técnico,Físico,Conducta,Lesionado,Tiempo Baja,Estado Actual,Partido,Equipo Rival,Minutos Jugados,Goles Favor,Forma Gol,Goles Contra,Forma Gol Contra,Asistencias,Tarjeta Amarilla,Razón Amarilla,Tarjeta Roja,Resultado,Equipo Jugador,Pases Completados,Pases Fallados,Faltas
+Stacy,Freeman,6,159,63,Delantero,2016-06-07,7,9,6,6,False,0,Disponible,1,Granada CF,55,1,Cabeza,3,Tiro lejano,2,True,Falta táctica,True,0-1,Valencia CF,32,12,2
+Stacy,Freeman,6,159,63,Delantero,2016-06-07,7,9,6,6,False,0,Disponible,2,Real Sociedad,44,1,Tiro lejano,0,N/A,2,False,N/A,False,2-3,Valencia CF,18,5,2
+Stacy,Freeman,6,159,63,Delantero,2016-06-07,7,9,6,6,False,0,Disponible,3,Cádiz CF,71,2,Tiro lejano,1,Tiro lejano,1,True,Falta táctica,False,0-3,Valencia CF,44,3,4
+Stacy,Freeman,6,159,63,Delantero,2016-06-07,7,9,6,6,False,0,Disponible,4,Alavés,40,1,Jugada combinada,3,Penalti en contra,1,False,N/A,False,2-1,Valencia CF,14,6,2
+Stacy,Freeman,6,159,63,Delantero,2016-06-07,7,9,6,6,False,0,Disponible,5,Real Betis,27,2,Tiro lejano,2,Centro y remate,2,False,N/A,False,5-3,Valencia CF,23,2,4
+Stacy,Freeman,6,159,63,Delantero,2016-06-07,7,9,6,6,False,0,Disponible,6,Valencia CF,37,2,Tiro lejano,0,N/A,1,True,Retraso en el juego,False,4-1,Valencia CF,14,11,5
+Bethany,Perry,2,130,63,Delantero,2016-12-28,10,7,8,7,True,12,No Disponible,1,Getafe CF,40,3,Rebote,2,Centro y remate,1,False,N/A,False,0-5,Valencia CF,17,9,2
+Bethany,Perry,2,130,63,Delantero,2016-12-28,10,7,8,7,True,12,No Disponible,2,Granada CF,45,3,Tiro lejano,3,Tiro lejano,0,False,N/A,False,4-1,Valencia CF,42,4,4
+Bethany,Perry,2,130,63,Delantero,2016-12-28,10,7,8,7,True,12,No Disponible,3,Rayo Vallecano,49,2,Penalti,3,Centro y remate,1,False,N/A,False,2-4,Valencia CF,27,1,5
+Bethany,Perry,2,130,63,Delantero,2016-12-28,10,7,8,7,True,12,No Disponible,4,Sevilla FC,24,0,N/A,2,Jugada ensayada,0,True,Entrada fuerte,True,4-5,Valencia CF,28,1,0
+Bethany,Perry,2,130,63,Delantero,2016-12-28,10,7,8,7,True,12,No Disponible,5,Villarreal CF,86,0,N/A,1,Centro y remate,0,False,N/A,False,4-3,Valencia CF,21,10,1
+Bethany,Perry,2,130,63,Delantero,2016-12-28,10,7,8,7,True,12,No Disponible,6,RC Celta,84,1,Tiro lejano,0,N/A,0,True,Retraso en el juego,True,1-4,Valencia CF,14,2,1
+Claudia,Williams,70,138,47,Defensa,2015-11-01,5,6,6,4,True,21,No Disponible,1,Real Sociedad,76,3,Tiro lejano,3,Jugada ensayada,2,True,Mano intencional,True,0-1,Valencia CF,43,8,4
+Claudia,Williams,70,138,47,Defensa,2015-11-01,5,6,6,4,True,21,No Disponible,2,Elche CF,52,1,Cabeza,0,N/A,2,True,Falta táctica,False,4-4,Valencia CF,31,6,2
+Claudia,Williams,70,138,47,Defensa,2015-11-01,5,6,6,4,True,21,No Disponible,3,Rayo Vallecano,18,3,Tiro lejano,1,Error defensivo,0,True,Entrada fuerte,True,4-1,Valencia CF,33,15,4
+Claudia,Williams,70,138,47,Defensa,2015-11-01,5,6,6,4,True,21,No Disponible,4,Espanyol,37,0,N/A,3,Error defensivo,0,True,Retraso en el juego,False,4-1,Valencia CF,14,2,5
+Claudia,Williams,70,138,47,Defensa,2015-11-01,5,6,6,4,True,21,No Disponible,5,Getafe CF,45,0,N/A,1,Tiro lejano,2,False,N/A,False,3-2,Valencia CF,35,3,1
+Claudia,Williams,70,138,47,Defensa,2015-11-01,5,6,6,4,True,21,No Disponible,6,Real Sociedad,54,0,N/A,1,Centro y remate,1,True,Falta táctica,True,5-0,Valencia CF,22,14,3
+Patricia,Stone,31,179,69,Defensa,2015-08-19,7,2,4,2,True,29,No Disponible,1,Valencia CF,43,2,Contraataque,2,Error defensivo,1,True,Entrada fuerte,True,4-5,Valencia CF,13,5,3
+Patricia,Stone,31,179,69,Defensa,2015-08-19,7,2,4,2,True,29,No Disponible,2,Sevilla FC,41,0,N/A,3,Tiro lejano,1,False,N/A,False,2-4,Valencia CF,24,7,5
+Patricia,Stone,31,179,69,Defensa,2015-08-19,7,2,4,2,True,29,No Disponible,3,Alavés,47,3,Cabeza,2,Error defensivo,0,True,Entrada fuerte,True,1-0,Valencia CF,47,9,3
+Patricia,Stone,31,179,69,Defensa,2015-08-19,7,2,4,2,True,29,No Disponible,4,Valencia CF,33,2,Tiro lejano,3,Centro y remate,2,True,Entrada fuerte,True,0-5,Valencia CF,13,1,1
+Patricia,Stone,31,179,69,Defensa,2015-08-19,7,2,4,2,True,29,No Disponible,5,Rayo Vallecano,72,3,Cabeza,2,Centro y remate,2,False,N/A,False,4-4,Valencia CF,10,11,1
+Patricia,Stone,31,179,69,Defensa,2015-08-19,7,2,4,2,True,29,No Disponible,6,Espanyol,43,0,N/A,2,Jugada ensayada,0,True,Falta táctica,False,2-2,Valencia CF,14,1,0
+Rhonda,Carrillo,21,133,36,Defensa,2015-09-09,10,4,1,4,False,0,Disponible,1,Alavés,65,3,Cabeza,0,N/A,0,False,N/A,False,5-2,Valencia CF,48,12,5
+Rhonda,Carrillo,21,133,36,Defensa,2015-09-09,10,4,1,4,False,0,Disponible,2,Espanyol,80,0,N/A,2,Penalti en contra,0,True,Entrada fuerte,True,2-5,Valencia CF,14,14,3
+Rhonda,Carrillo,21,133,36,Defensa,2015-09-09,10,4,1,4,False,0,Disponible,3,Granada CF,67,0,N/A,0,N/A,0,False,N/A,False,5-4,Valencia CF,13,9,1
+Rhonda,Carrillo,21,133,36,Defensa,2015-09-09,10,4,1,4,False,0,Disponible,4,RCD Mallorca,26,1,Penalti,1,Error defensivo,1,True,Mano intencional,False,1-2,Valencia CF,25,11,4
+Rhonda,Carrillo,21,133,36,Defensa,2015-09-09,10,4,1,4,False,0,Disponible,5,Getafe CF,68,2,Cabeza,2,Penalti en contra,2,False,N/A,False,1-4,Valencia CF,17,1,1
+Rhonda,Carrillo,21,133,36,Defensa,2015-09-09,10,4,1,4,False,0,Disponible,6,Real Madrid,63,2,Rebote,1,Error defensivo,0,False,N/A,False,3-0,Valencia CF,38,1,3
+Benjamin,Flores,40,163,39,Centrocampista,2015-08-05,8,10,1,8,False,0,Disponible,1,RC Celta,48,0,N/A,2,Error defensivo,2,True,Protesta,False,4-3,Valencia CF,28,7,5
+Benjamin,Flores,40,163,39,Centrocampista,2015-08-05,8,10,1,8,False,0,Disponible,2,Rayo Vallecano,57,1,Contraataque,3,Jugada ensayada,1,False,N/A,False,4-1,Valencia CF,25,2,2
+Benjamin,Flores,40,163,39,Centrocampista,2015-08-05,8,10,1,8,False,0,Disponible,3,Real Madrid,73,3,Tiro lejano,0,N/A,2,True,Protesta,False,2-0,Valencia CF,31,13,4
+Benjamin,Flores,40,163,39,Centrocampista,2015-08-05,8,10,1,8,False,0,Disponible,4,Real Betis,62,0,N/A,0,N/A,1,False,N/A,False,3-3,Valencia CF,12,4,2
+Benjamin,Flores,40,163,39,Centrocampista,2015-08-05,8,10,1,8,False,0,Disponible,5,Alavés,50,1,Contraataque,0,N/A,2,True,Retraso en el juego,True,1-5,Valencia CF,42,13,2
+Benjamin,Flores,40,163,39,Centrocampista,2015-08-05,8,10,1,8,False,0,Disponible,6,Osasuna,40,1,Cabeza,2,Error defensivo,1,True,Retraso en el juego,False,3-5,Valencia CF,24,9,0
+Leslie,Robinson,21,156,44,Defensa,2016-03-05,3,3,10,9,True,20,No Disponible,1,Espanyol,77,3,Penalti,2,Centro y remate,0,False,N/A,False,0-0,Valencia CF,11,15,4
+Leslie,Robinson,21,156,44,Defensa,2016-03-05,3,3,10,9,True,20,No Disponible,2,Real Madrid,68,2,Rebote,2,Centro y remate,2,True,Entrada fuerte,True,3-5,Valencia CF,49,4,2
+Leslie,Robinson,21,156,44,Defensa,2016-03-05,3,3,10,9,True,20,No Disponible,3,Osasuna,34,1,Tiro lejano,1,Error defensivo,1,False,N/A,False,0-5,Valencia CF,16,10,4
+Leslie,Robinson,21,156,44,Defensa,2016-03-05,3,3,10,9,True,20,No Disponible,4,Real Sociedad,30,2,Tiro lejano,0,N/A,1,True,Mano intencional,True,2-2,Valencia CF,24,9,2
+Leslie,Robinson,21,156,44,Defensa,2016-03-05,3,3,10,9,True,20,No Disponible,5,Sevilla FC,35,3,Penalti,0,N/A,2,False,N/A,False,0-5,Valencia CF,48,15,3
+Leslie,Robinson,21,156,44,Defensa,2016-03-05,3,3,10,9,True,20,No Disponible,6,Sevilla FC,26,3,Cabeza,3,Centro y remate,1,False,N/A,False,3-4,Valencia CF,24,2,2
+Michael,Byrd,83,135,43,Defensa,2016-12-14,10,9,2,2,True,12,No Disponible,1,Elche CF,68,0,N/A,3,Centro y remate,0,True,Falta táctica,True,2-3,Valencia CF,20,14,2
+Michael,Byrd,83,135,43,Defensa,2016-12-14,10,9,2,2,True,12,No Disponible,2,Villarreal CF,32,3,Penalti,1,Jugada ensayada,0,True,Protesta,True,4-2,Valencia CF,32,8,2
+Michael,Byrd,83,135,43,Defensa,2016-12-14,10,9,2,2,True,12,No Disponible,3,RCD Mallorca,69,0,N/A,2,Jugada ensayada,1,False,N/A,False,4-0,Valencia CF,17,2,3
+Michael,Byrd,83,135,43,Defensa,2016-12-14,10,9,2,2,True,12,No Disponible,4,Rayo Vallecano,26,0,N/A,1,Centro y remate,1,True,Protesta,True,2-1,Valencia CF,39,5,3
+Michael,Byrd,83,135,43,Defensa,2016-12-14,10,9,2,2,True,12,No Disponible,5,Real Sociedad,50,2,Contraataque,3,Centro y remate,1,False,N/A,False,2-4,Valencia CF,12,15,2
+Michael,Byrd,83,135,43,Defensa,2016-12-14,10,9,2,2,True,12,No Disponible,6,Levante UD,25,2,Cabeza,2,Centro y remate,0,False,N/A,False,5-4,Valencia CF,22,11,0
+Teresa,Aguilar,58,156,62,Centrocampista,2016-10-14,1,9,2,8,False,0,Disponible,1,Elche CF,26,0,N/A,3,Jugada ensayada,0,False,N/A,False,2-4,Valencia CF,34,11,3
+Teresa,Aguilar,58,156,62,Centrocampista,2016-10-14,1,9,2,8,False,0,Disponible,2,Osasuna,78,3,Tiro lejano,1,Penalti en contra,2,False,N/A,False,0-3,Valencia CF,26,13,0
+Teresa,Aguilar,58,156,62,Centrocampista,2016-10-14,1,9,2,8,False,0,Disponible,3,Villarreal CF,71,2,Jugada combinada,2,Centro y remate,1,True,Retraso en el juego,True,2-1,Valencia CF,43,11,5
+Teresa,Aguilar,58,156,62,Centrocampista,2016-10-14,1,9,2,8,False,0,Disponible,4,Sevilla FC,78,2,Cabeza,0,N/A,1,True,Protesta,False,3-2,Valencia CF,29,13,0
+Teresa,Aguilar,58,156,62,Centrocampista,2016-10-14,1,9,2,8,False,0,Disponible,5,Valencia CF,79,2,Penalti,3,Penalti en contra,2,True,Retraso en el juego,True,0-4,Valencia CF,50,6,3
+Teresa,Aguilar,58,156,62,Centrocampista,2016-10-14,1,9,2,8,False,0,Disponible,6,Real Betis,23,1,Cabeza,1,Tiro lejano,1,True,Protesta,True,0-1,Valencia CF,49,7,4
+Jesse,Newton,16,146,41,Portero,2016-12-03,8,9,4,6,True,25,No Disponible,1,Real Madrid,51,1,Tiro lejano,2,Tiro lejano,1,True,Protesta,True,1-3,Valencia CF,14,10,2
+Jesse,Newton,16,146,41,Portero,2016-12-03,8,9,4,6,True,25,No Disponible,2,RC Celta,39,0,N/A,0,N/A,0,False,N/A,False,5-1,Valencia CF,42,2,3
+Jesse,Newton,16,146,41,Portero,2016-12-03,8,9,4,6,True,25,No Disponible,3,RC Celta,80,3,Contraataque,0,N/A,2,False,N/A,False,1-2,Valencia CF,40,14,1
+Jesse,Newton,16,146,41,Portero,2016-12-03,8,9,4,6,True,25,No Disponible,4,RCD Mallorca,84,2,Rebote,0,N/A,0,True,Falta táctica,False,5-2,Valencia CF,38,2,4
+Jesse,Newton,16,146,41,Portero,2016-12-03,8,9,4,6,True,25,No Disponible,5,Atlético de Madrid,63,1,Cabeza,2,Penalti en contra,2,True,Retraso en el juego,False,2-4,Valencia CF,50,5,4
+Jesse,Newton,16,146,41,Portero,2016-12-03,8,9,4,6,True,25,No Disponible,6,Real Sociedad,76,0,N/A,1,Tiro lejano,1,True,Entrada fuerte,True,2-4,Valencia CF,15,1,3
+James,Johnson,23,161,69,Portero,2016-01-09,9,6,9,10,False,0,Disponible,1,Alavés,66,0,N/A,0,N/A,1,True,Falta táctica,False,5-5,Valencia CF,30,13,3
+James,Johnson,23,161,69,Portero,2016-01-09,9,6,9,10,False,0,Disponible,2,Alavés,45,0,N/A,1,Jugada ensayada,1,False,N/A,False,2-0,Valencia CF,30,7,3
+James,Johnson,23,161,69,Portero,2016-01-09,9,6,9,10,False,0,Disponible,3,Espanyol,90,1,Rebote,0,N/A,1,False,N/A,False,5-4,Valencia CF,39,4,1
+James,Johnson,23,161,69,Portero,2016-01-09,9,6,9,10,False,0,Disponible,4,Osasuna,60,1,Contraataque,2,Error defensivo,2,False,N/A,False,1-0,Valencia CF,21,12,4
+James,Johnson,23,161,69,Portero,2016-01-09,9,6,9,10,False,0,Disponible,5,Getafe CF,57,0,N/A,2,Centro y remate,0,True,Protesta,False,2-4,Valencia CF,23,13,3
+James,Johnson,23,161,69,Portero,2016-01-09,9,6,9,10,False,0,Disponible,6,Osasuna,60,0,N/A,0,N/A,2,False,N/A,False,2-2,Valencia CF,21,8,3
+Patricia,Hodges,96,138,48,Delantero,2016-04-06,3,7,9,5,True,21,No Disponible,1,RCD Mallorca,68,1,Tiro lejano,3,Jugada ensayada,0,False,N/A,False,4-3,Valencia CF,39,11,4
+Patricia,Hodges,96,138,48,Delantero,2016-04-06,3,7,9,5,True,21,No Disponible,2,Osasuna,45,0,N/A,3,Centro y remate,1,False,N/A,False,5-0,Valencia CF,42,13,4
+Patricia,Hodges,96,138,48,Delantero,2016-04-06,3,7,9,5,True,21,No Disponible,3,Valencia CF,65,0,N/A,1,Penalti en contra,1,False,N/A,False,1-3,Valencia CF,43,15,5
+Patricia,Hodges,96,138,48,Delantero,2016-04-06,3,7,9,5,True,21,No Disponible,4,Osasuna,75,2,Contraataque,2,Jugada ensayada,1,True,Entrada fuerte,True,1-4,Valencia CF,32,7,2
+Patricia,Hodges,96,138,48,Delantero,2016-04-06,3,7,9,5,True,21,No Disponible,5,Real Madrid,89,1,Rebote,1,Error defensivo,2,False,N/A,False,0-5,Valencia CF,50,3,0
+Patricia,Hodges,96,138,48,Delantero,2016-04-06,3,7,9,5,True,21,No Disponible,6,Osasuna,11,3,Jugada combinada,0,N/A,2,False,N/A,False,0-3,Valencia CF,46,2,2
+Michael,Sanchez,91,171,55,Portero,2016-04-28,4,8,9,9,False,0,Disponible,1,Sevilla FC,81,3,Cabeza,0,N/A,1,False,N/A,False,0-1,Valencia CF,14,12,2
+Michael,Sanchez,91,171,55,Portero,2016-04-28,4,8,9,9,False,0,Disponible,2,Valencia CF,47,2,Jugada combinada,0,N/A,1,True,Mano intencional,False,0-2,Valencia CF,24,3,4
+Michael,Sanchez,91,171,55,Portero,2016-04-28,4,8,9,9,False,0,Disponible,3,Real Madrid,35,0,N/A,1,Jugada ensayada,0,False,N/A,False,5-0,Valencia CF,32,13,4
+Michael,Sanchez,91,171,55,Portero,2016-04-28,4,8,9,9,False,0,Disponible,4,Atlético de Madrid,56,3,Rebote,3,Centro y remate,2,True,Retraso en el juego,True,5-3,Valencia CF,14,10,3
+Michael,Sanchez,91,171,55,Portero,2016-04-28,4,8,9,9,False,0,Disponible,5,Elche CF,89,3,Rebote,1,Error defensivo,0,True,Falta táctica,False,1-2,Valencia CF,23,4,1
+Michael,Sanchez,91,171,55,Portero,2016-04-28,4,8,9,9,False,0,Disponible,6,Cádiz CF,42,1,Contraataque,3,Centro y remate,2,False,N/A,False,5-4,Valencia CF,13,6,5
+Nicholas,Ramos,48,147,54,Centrocampista,2016-09-06,4,5,2,5,True,18,No Disponible,1,Villarreal CF,80,0,N/A,0,N/A,0,True,Mano intencional,True,1-5,Valencia CF,35,13,0
+Nicholas,Ramos,48,147,54,Centrocampista,2016-09-06,4,5,2,5,True,18,No Disponible,2,Getafe CF,83,3,Jugada combinada,3,Centro y remate,0,False,N/A,False,1-2,Valencia CF,11,10,0
+Nicholas,Ramos,48,147,54,Centrocampista,2016-09-06,4,5,2,5,True,18,No Disponible,3,Osasuna,68,2,Cabeza,0,N/A,2,True,Protesta,True,2-3,Valencia CF,15,1,4
+Nicholas,Ramos,48,147,54,Centrocampista,2016-09-06,4,5,2,5,True,18,No Disponible,4,Getafe CF,63,2,Penalti,2,Jugada ensayada,1,True,Retraso en el juego,True,2-5,Valencia CF,46,1,1
+Nicholas,Ramos,48,147,54,Centrocampista,2016-09-06,4,5,2,5,True,18,No Disponible,5,Osasuna,54,3,Jugada combinada,2,Tiro lejano,1,False,N/A,False,5-5,Valencia CF,26,11,1
+Nicholas,Ramos,48,147,54,Centrocampista,2016-09-06,4,5,2,5,True,18,No Disponible,6,Cádiz CF,18,1,Penalti,2,Centro y remate,0,True,Falta táctica,False,2-1,Valencia CF,10,10,1
+Steven,Steele,7,165,51,Delantero,2016-09-13,8,5,1,3,True,20,No Disponible,1,Granada CF,54,3,Tiro lejano,0,N/A,1,True,Entrada fuerte,True,2-2,Valencia CF,18,10,1
+Steven,Steele,7,165,51,Delantero,2016-09-13,8,5,1,3,True,20,No Disponible,2,Villarreal CF,13,0,N/A,0,N/A,2,False,N/A,False,2-5,Valencia CF,17,15,3
+Steven,Steele,7,165,51,Delantero,2016-09-13,8,5,1,3,True,20,No Disponible,3,Alavés,87,2,Cabeza,3,Penalti en contra,1,False,N/A,False,3-0,Valencia CF,45,15,3
+Steven,Steele,7,165,51,Delantero,2016-09-13,8,5,1,3,True,20,No Disponible,4,Atlético de Madrid,12,0,N/A,1,Jugada ensayada,0,False,N/A,False,4-3,Valencia CF,17,5,2
+Steven,Steele,7,165,51,Delantero,2016-09-13,8,5,1,3,True,20,No Disponible,5,Sevilla FC,75,1,Jugada combinada,3,Centro y remate,2,True,Falta táctica,False,1-3,Valencia CF,12,13,1
+Steven,Steele,7,165,51,Delantero,2016-09-13,8,5,1,3,True,20,No Disponible,6,Villarreal CF,26,3,Rebote,1,Penalti en contra,0,True,Falta táctica,True,2-2,Valencia CF,32,1,2
+Emily,Barron,19,148,56,Defensa,2016-07-18,1,7,6,9,False,0,Disponible,1,Real Madrid,77,0,N/A,3,Tiro lejano,2,True,Mano intencional,False,1-0,Valencia CF,29,8,4
+Emily,Barron,19,148,56,Defensa,2016-07-18,1,7,6,9,False,0,Disponible,2,Cádiz CF,28,0,N/A,0,N/A,1,False,N/A,False,1-3,Valencia CF,48,11,1
+Emily,Barron,19,148,56,Defensa,2016-07-18,1,7,6,9,False,0,Disponible,3,Rayo Vallecano,41,1,Cabeza,3,Centro y remate,2,False,N/A,False,4-3,Valencia CF,46,10,5
+Emily,Barron,19,148,56,Defensa,2016-07-18,1,7,6,9,False,0,Disponible,4,Real Sociedad,15,2,Tiro lejano,2,Penalti en contra,0,False,N/A,False,2-2,Valencia CF,21,14,5
+Emily,Barron,19,148,56,Defensa,2016-07-18,1,7,6,9,False,0,Disponible,5,Athletic Club,49,1,Jugada combinada,2,Error defensivo,0,False,N/A,False,1-0,Valencia CF,49,10,1
+Emily,Barron,19,148,56,Defensa,2016-07-18,1,7,6,9,False,0,Disponible,6,Atlético de Madrid,58,0,N/A,3,Centro y remate,2,False,N/A,False,4-2,Valencia CF,39,14,4
+Melissa,Gibson,88,170,45,Centrocampista,2016-08-06,4,5,10,7,False,0,Disponible,1,Cádiz CF,17,1,Tiro lejano,0,N/A,0,False,N/A,False,2-1,Valencia CF,49,4,1
+Melissa,Gibson,88,170,45,Centrocampista,2016-08-06,4,5,10,7,False,0,Disponible,2,Rayo Vallecano,31,1,Cabeza,1,Tiro lejano,1,True,Mano intencional,False,1-4,Valencia CF,23,8,2
+Melissa,Gibson,88,170,45,Centrocampista,2016-08-06,4,5,10,7,False,0,Disponible,3,Granada CF,12,0,N/A,3,Centro y remate,0,False,N/A,False,4-5,Valencia CF,18,6,2
+Melissa,Gibson,88,170,45,Centrocampista,2016-08-06,4,5,10,7,False,0,Disponible,4,Rayo Vallecano,15,1,Penalti,0,N/A,2,False,N/A,False,5-4,Valencia CF,35,3,0
+Melissa,Gibson,88,170,45,Centrocampista,2016-08-06,4,5,10,7,False,0,Disponible,5,Atlético de Madrid,11,2,Contraataque,0,N/A,2,True,Falta táctica,True,4-0,Valencia CF,40,2,5
+Melissa,Gibson,88,170,45,Centrocampista,2016-08-06,4,5,10,7,False,0,Disponible,6,Levante UD,23,1,Penalti,1,Centro y remate,2,True,Retraso en el juego,False,4-4,Valencia CF,27,6,4
+Eric,Higgins,52,169,44,Portero,2015-07-06,5,6,8,6,False,0,Disponible,1,Cádiz CF,25,3,Jugada combinada,2,Centro y remate,0,True,Entrada fuerte,False,3-4,Valencia CF,10,13,5
+Eric,Higgins,52,169,44,Portero,2015-07-06,5,6,8,6,False,0,Disponible,2,RCD Mallorca,40,2,Tiro lejano,3,Error defensivo,0,True,Mano intencional,False,1-1,Valencia CF,23,13,1
+Eric,Higgins,52,169,44,Portero,2015-07-06,5,6,8,6,False,0,Disponible,3,Real Sociedad,30,0,N/A,0,N/A,1,True,Entrada fuerte,False,1-1,Valencia CF,39,5,4
+Eric,Higgins,52,169,44,Portero,2015-07-06,5,6,8,6,False,0,Disponible,4,Espanyol,22,0,N/A,0,N/A,1,True,Mano intencional,False,4-5,Valencia CF,32,2,1
+Eric,Higgins,52,169,44,Portero,2015-07-06,5,6,8,6,False,0,Disponible,5,Villarreal CF,27,1,Cabeza,2,Penalti en contra,1,True,Mano intencional,False,2-2,Valencia CF,23,8,0
+Eric,Higgins,52,169,44,Portero,2015-07-06,5,6,8,6,False,0,Disponible,6,Levante UD,12,1,Tiro lejano,2,Jugada ensayada,2,True,Falta táctica,False,4-1,Valencia CF,22,8,0
+Elizabeth,Hernandez,1,168,63,Delantero,2016-08-17,3,6,10,7,False,0,Disponible,1,Real Madrid,73,1,Jugada combinada,1,Error defensivo,0,True,Protesta,False,2-0,Valencia CF,22,12,2
+Elizabeth,Hernandez,1,168,63,Delantero,2016-08-17,3,6,10,7,False,0,Disponible,2,Valencia CF,40,2,Contraataque,2,Tiro lejano,0,False,N/A,False,3-3,Valencia CF,45,7,3
+Elizabeth,Hernandez,1,168,63,Delantero,2016-08-17,3,6,10,7,False,0,Disponible,3,Cádiz CF,56,1,Rebote,2,Jugada ensayada,0,False,N/A,False,0-0,Valencia CF,39,6,0
+Elizabeth,Hernandez,1,168,63,Delantero,2016-08-17,3,6,10,7,False,0,Disponible,4,Granada CF,50,1,Contraataque,0,N/A,2,True,Retraso en el juego,True,0-0,Valencia CF,12,5,2
+Elizabeth,Hernandez,1,168,63,Delantero,2016-08-17,3,6,10,7,False,0,Disponible,5,Real Madrid,78,1,Cabeza,2,Jugada ensayada,1,True,Retraso en el juego,True,0-1,Valencia CF,43,12,1
+Elizabeth,Hernandez,1,168,63,Delantero,2016-08-17,3,6,10,7,False,0,Disponible,6,RCD Mallorca,85,0,N/A,2,Jugada ensayada,1,False,N/A,False,1-0,Valencia CF,43,5,2
+Michael,Nelson,97,143,58,Portero,2015-10-24,2,9,3,4,True,24,No Disponible,1,Sevilla FC,74,0,N/A,0,N/A,1,False,N/A,False,1-4,Valencia CF,50,11,1
+Michael,Nelson,97,143,58,Portero,2015-10-24,2,9,3,4,True,24,No Disponible,2,Sevilla FC,23,1,Tiro lejano,1,Penalti en contra,0,True,Falta táctica,True,0-0,Valencia CF,21,10,5
+Michael,Nelson,97,143,58,Portero,2015-10-24,2,9,3,4,True,24,No Disponible,3,RCD Mallorca,82,2,Contraataque,2,Penalti en contra,0,True,Entrada fuerte,False,4-2,Valencia CF,50,2,5
+Michael,Nelson,97,143,58,Portero,2015-10-24,2,9,3,4,True,24,No Disponible,4,Granada CF,15,3,Contraataque,3,Jugada ensayada,2,False,N/A,False,0-3,Valencia CF,33,4,5
+Michael,Nelson,97,143,58,Portero,2015-10-24,2,9,3,4,True,24,No Disponible,5,Real Sociedad,29,2,Rebote,3,Error defensivo,1,True,Protesta,True,3-1,Valencia CF,16,6,0
+Michael,Nelson,97,143,58,Portero,2015-10-24,2,9,3,4,True,24,No Disponible,6,Real Sociedad,55,0,N/A,3,Tiro lejano,0,True,Protesta,False,2-2,Valencia CF,36,7,3
+Mallory,Dorsey,75,132,37,Defensa,2016-07-15,7,3,4,1,False,0,Disponible,1,Real Sociedad,62,2,Contraataque,0,N/A,0,True,Mano intencional,True,5-2,Valencia CF,18,6,3
+Mallory,Dorsey,75,132,37,Defensa,2016-07-15,7,3,4,1,False,0,Disponible,2,Granada CF,45,1,Rebote,2,Centro y remate,2,False,N/A,False,1-4,Valencia CF,39,12,5
+Mallory,Dorsey,75,132,37,Defensa,2016-07-15,7,3,4,1,False,0,Disponible,3,Levante UD,19,1,Rebote,2,Tiro lejano,0,True,Mano intencional,True,2-0,Valencia CF,43,5,4
+Mallory,Dorsey,75,132,37,Defensa,2016-07-15,7,3,4,1,False,0,Disponible,4,Osasuna,17,3,Jugada combinada,1,Penalti en contra,2,False,N/A,False,2-5,Valencia CF,48,7,3
+Mallory,Dorsey,75,132,37,Defensa,2016-07-15,7,3,4,1,False,0,Disponible,5,Cádiz CF,45,0,N/A,0,N/A,1,False,N/A,False,0-2,Valencia CF,48,10,1
+Mallory,Dorsey,75,132,37,Defensa,2016-07-15,7,3,4,1,False,0,Disponible,6,Getafe CF,21,2,Contraataque,1,Error defensivo,2,True,Protesta,False,0-0,Valencia CF,16,5,2
+Gabriela,Simon,33,177,66,Centrocampista,2015-10-26,6,10,9,4,False,0,Disponible,1,Rayo Vallecano,52,2,Jugada combinada,2,Error defensivo,0,True,Entrada fuerte,True,5-2,Valencia CF,18,7,5
+Gabriela,Simon,33,177,66,Centrocampista,2015-10-26,6,10,9,4,False,0,Disponible,2,Rayo Vallecano,60,1,Tiro lejano,2,Jugada ensayada,2,True,Retraso en el juego,False,2-5,Valencia CF,50,15,2
+Gabriela,Simon,33,177,66,Centrocampista,2015-10-26,6,10,9,4,False,0,Disponible,3,Valencia CF,42,3,Penalti,1,Error defensivo,1,False,N/A,False,4-2,Valencia CF,40,2,3
+Gabriela,Simon,33,177,66,Centrocampista,2015-10-26,6,10,9,4,False,0,Disponible,4,Alavés,71,0,N/A,1,Jugada ensayada,2,True,Falta táctica,True,5-4,Valencia CF,30,15,4
+Gabriela,Simon,33,177,66,Centrocampista,2015-10-26,6,10,9,4,False,0,Disponible,5,Elche CF,35,0,N/A,2,Centro y remate,2,False,N/A,False,2-3,Valencia CF,31,2,3
+Gabriela,Simon,33,177,66,Centrocampista,2015-10-26,6,10,9,4,False,0,Disponible,6,Levante UD,55,1,Tiro lejano,0,N/A,2,False,N/A,False,0-0,Valencia CF,17,3,4
+Anthony,Howard,48,168,58,Centrocampista,2015-01-25,10,3,9,10,True,6,No Disponible,1,Getafe CF,26,2,Rebote,0,N/A,2,False,N/A,False,4-5,Valencia CF,21,7,5
+Anthony,Howard,48,168,58,Centrocampista,2015-01-25,10,3,9,10,True,6,No Disponible,2,Granada CF,54,3,Cabeza,2,Error defensivo,0,True,Falta táctica,False,4-3,Valencia CF,27,5,3
+Anthony,Howard,48,168,58,Centrocampista,2015-01-25,10,3,9,10,True,6,No Disponible,3,Valencia CF,29,2,Contraataque,1,Penalti en contra,2,True,Falta táctica,False,0-1,Valencia CF,18,5,1
+Anthony,Howard,48,168,58,Centrocampista,2015-01-25,10,3,9,10,True,6,No Disponible,4,FC Barcelona,90,1,Contraataque,3,Penalti en contra,2,True,Protesta,True,0-2,Valencia CF,18,14,4
+Anthony,Howard,48,168,58,Centrocampista,2015-01-25,10,3,9,10,True,6,No Disponible,5,Levante UD,20,0,N/A,1,Centro y remate,2,True,Protesta,True,5-0,Valencia CF,15,7,3
+Anthony,Howard,48,168,58,Centrocampista,2015-01-25,10,3,9,10,True,6,No Disponible,6,Rayo Vallecano,88,0,N/A,3,Penalti en contra,2,True,Protesta,False,5-2,Valencia CF,36,6,1
+Brianna,Simpson,57,159,39,Centrocampista,2015-03-13,6,1,4,8,True,10,No Disponible,1,Levante UD,65,2,Tiro lejano,3,Error defensivo,2,False,N/A,False,5-2,Valencia CF,42,14,2
+Brianna,Simpson,57,159,39,Centrocampista,2015-03-13,6,1,4,8,True,10,No Disponible,2,RCD Mallorca,36,2,Jugada combinada,0,N/A,2,False,N/A,False,0-5,Valencia CF,32,9,0
+Brianna,Simpson,57,159,39,Centrocampista,2015-03-13,6,1,4,8,True,10,No Disponible,3,Getafe CF,27,3,Rebote,2,Centro y remate,2,False,N/A,False,2-3,Valencia CF,32,3,0
+Brianna,Simpson,57,159,39,Centrocampista,2015-03-13,6,1,4,8,True,10,No Disponible,4,Real Madrid,29,1,Contraataque,3,Error defensivo,1,False,N/A,False,2-2,Valencia CF,28,1,4
+Brianna,Simpson,57,159,39,Centrocampista,2015-03-13,6,1,4,8,True,10,No Disponible,5,Rayo Vallecano,38,2,Rebote,0,N/A,2,False,N/A,False,1-4,Valencia CF,22,9,3
+Brianna,Simpson,57,159,39,Centrocampista,2015-03-13,6,1,4,8,True,10,No Disponible,6,RC Celta,37,1,Rebote,1,Penalti en contra,1,False,N/A,False,0-5,Valencia CF,11,2,3
+Christina,Davis,51,160,61,Delantero,2015-08-04,5,9,4,9,False,0,Disponible,1,Real Madrid,81,0,N/A,0,N/A,2,False,N/A,False,5-4,Valencia CF,12,8,0
+Christina,Davis,51,160,61,Delantero,2015-08-04,5,9,4,9,False,0,Disponible,2,Osasuna,44,0,N/A,3,Centro y remate,0,True,Entrada fuerte,True,4-2,Valencia CF,15,2,0
+Christina,Davis,51,160,61,Delantero,2015-08-04,5,9,4,9,False,0,Disponible,3,Valencia CF,70,2,Penalti,3,Centro y remate,0,False,N/A,False,3-5,Valencia CF,16,4,3
+Christina,Davis,51,160,61,Delantero,2015-08-04,5,9,4,9,False,0,Disponible,4,Valencia CF,43,0,N/A,3,Jugada ensayada,2,True,Falta táctica,True,2-4,Valencia CF,13,9,3
+Christina,Davis,51,160,61,Delantero,2015-08-04,5,9,4,9,False,0,Disponible,5,Real Sociedad,21,1,Cabeza,1,Error defensivo,1,True,Mano intencional,True,4-1,Valencia CF,34,2,5
+Christina,Davis,51,160,61,Delantero,2015-08-04,5,9,4,9,False,0,Disponible,6,FC Barcelona,47,0,N/A,1,Jugada ensayada,2,False,N/A,False,3-5,Valencia CF,46,5,1
